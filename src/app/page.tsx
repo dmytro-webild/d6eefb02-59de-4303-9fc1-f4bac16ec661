@@ -51,7 +51,7 @@ export default function LandingPage() {
           background={{ variant: "glowing-orb" }}
           leftCarouselItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg",              imageAlt: "Professional website design portfolio piece"},
+              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg?_wi=1",              imageAlt: "Professional website design portfolio piece"},
             {
               imageSrc: "http://img.b2bpic.net/free-vector/home-furnitures-landing-page-tempalte_23-2148402689.jpg",              imageAlt: "Modern responsive website layout"},
             {
@@ -61,13 +61,13 @@ export default function LandingPage() {
           ]}
           rightCarouselItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg",              imageAlt: "Business website template"},
+              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg?_wi=1",              imageAlt: "Business website template"},
             {
-              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg",              imageAlt: "Ecommerce website design"},
+              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg?_wi=1",              imageAlt: "Ecommerce website design"},
             {
-              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg",              imageAlt: "SaaS platform website"},
+              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg?_wi=1",              imageAlt: "SaaS platform website"},
             {
-              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg",              imageAlt: "Website portfolio showcase"},
+              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg?_wi=2",              imageAlt: "Website portfolio showcase"},
           ]}
           buttons={[
             { text: "View Portfolio", href: "portfolio" },
@@ -103,16 +103,16 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Discovery & Planning",              description: "We understand your business goals, target audience, and competitive landscape. This foundation ensures every design decision serves your growth objectives.",              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg",              imageAlt: "Discovery planning phase"},
+              title: "Discovery & Planning",              description: "We understand your business goals, target audience, and competitive landscape. This foundation ensures every design decision serves your growth objectives.",              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg?_wi=2",              imageAlt: "Discovery planning phase"},
             {
               id: 2,
-              title: "Design & Development",              description: "Creating modern, organized interfaces using the latest web technologies. We focus on clean aesthetics, responsive design, and intuitive user experiences.",              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg",              imageAlt: "Design development process"},
+              title: "Design & Development",              description: "Creating modern, organized interfaces using the latest web technologies. We focus on clean aesthetics, responsive design, and intuitive user experiences.",              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg?_wi=2",              imageAlt: "Design development process"},
             {
               id: 3,
-              title: "Testing & Optimization",              description: "Rigorous testing ensures your website performs flawlessly across devices. We optimize for speed, accessibility, and conversion to maximize impact.",              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg",              imageAlt: "Testing optimization phase"},
+              title: "Testing & Optimization",              description: "Rigorous testing ensures your website performs flawlessly across devices. We optimize for speed, accessibility, and conversion to maximize impact.",              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg?_wi=2",              imageAlt: "Testing optimization phase"},
             {
               id: 4,
-              title: "Launch & Support",              description: "Your website goes live with confidence. Jo provides ongoing support and maintenance to keep your site performing at peak levels.",              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg",              imageAlt: "Website launch support"},
+              title: "Launch & Support",              description: "Your website goes live with confidence. Jo provides ongoing support and maintenance to keep your site performing at peak levels.",              imageSrc: "http://img.b2bpic.net/free-psd/fashion-sale-landing-page-template_23-2149528740.jpg?_wi=3",              imageAlt: "Website launch support"},
           ]}
         />
       </div>
@@ -130,13 +130,13 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "Business Services",              name: "Professional Services Website",              price: "Modern Design",              rating: 5,
-              reviewCount: "Fully Responsive",              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg",              imageAlt: "Professional services website"},
+              reviewCount: "Fully Responsive",              imageSrc: "http://img.b2bpic.net/free-psd/coffee-shop-website-page-template_197582-337.jpg?_wi=3",              imageAlt: "Professional services website"},
             {
               id: "2",              brand: "Ecommerce",              name: "Online Store Experience",              price: "Conversion Ready",              rating: 5,
-              reviewCount: "Optimized",              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg",              imageAlt: "Ecommerce website example"},
+              reviewCount: "Optimized",              imageSrc: "http://img.b2bpic.net/free-vector/winter-season-sale-horizontal-banner-template_23-2149960947.jpg?_wi=3",              imageAlt: "Ecommerce website example"},
             {
               id: "3",              brand: "Tech Startup",              name: "SaaS Platform Website",              price: "Scalable Design",              rating: 5,
-              reviewCount: "Performant",              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg",              imageAlt: "SaaS platform website"},
+              reviewCount: "Performant",              imageSrc: "http://img.b2bpic.net/free-vector/dashboard-element-collection-template_23-2148366978.jpg?_wi=3",              imageAlt: "SaaS platform website"},
           ]}
         />
       </div>
